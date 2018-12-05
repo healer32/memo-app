@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MEMO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="judul">Judul</string>
+    <string name="ok">OK</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="hapus">HAPUS</string>
+</resources>
